@@ -10,20 +10,7 @@ On the night of January 31, 2026, BNT held the national selection final to choos
 
 ### API Response Data
 
-The file `results-payload.json` contains the JSON response from the official voting API, showing the actual vote counts and jury points for each contestant:
-
-| Entry ID | Votes  | Jury Points |
-|----------|--------|-------------|
-| 2        | 23,853 | 17          |
-| 4        | 16,750 | 19          |
-| 6        | 13,358 | 23          |
-| 8        | 10,687 | 18          |
-| 5        | 9,306  | 17          |
-| 3        | 4,067  | 18          |
-| 7        | 3,327  | 16          |
-| 1        | 3,206  | 16          |
-
-**Total Votes:** 84,554
+The file `results-payload.json` contains the JSON response from the official voting API, showing the actual vote counts and jury points for each contestant.
 
 ### Comparison with TV Broadcast
 
