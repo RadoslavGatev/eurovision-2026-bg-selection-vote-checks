@@ -16,9 +16,13 @@ The file `results-payload.json` contains the JSON response from the official vot
 
 The `comparison.xlsx` spreadsheet and `comparison.png` image show a side-by-side comparison of the API data versus the results announced on television. Cells highlighted in red indicate discrepancies.
 
+![Comparison of API data vs TV broadcast results](comparison.png)
+
 ### Visual Evidence
 
 - `youtube-results.jpg` / `youtube-results-highlighted.png` - Screenshots from the [official BNT YouTube broadcast](https://youtu.be/Oan0V5gDBWw?t=12193) showing the announced results
+
+![Screenshot from official BNT YouTube broadcast showing the announced results](youtube-results-highlighted.png)
 
 ### Network Traffic Capture
 
