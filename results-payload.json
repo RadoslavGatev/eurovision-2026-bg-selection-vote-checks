@@ -1,0 +1,49 @@
+{
+    "totalVotes": 84554,
+    "entries": [
+        {
+            "id": 2,
+            "votes": 23853,
+            "juryPoints": 17
+        },
+        {
+            "id": 4,
+            "votes": 16750,
+            "juryPoints": 19
+        },
+        {
+            "id": 6,
+            "votes": 13358,
+            "juryPoints": 23
+        },
+        {
+            "id": 8,
+            "votes": 10687,
+            "juryPoints": 18
+        },
+        {
+            "id": 5,
+            "votes": 9306,
+            "juryPoints": 17
+        },
+        {
+            "id": 3,
+            "votes": 4067,
+            "juryPoints": 18
+        },
+        {
+            "id": 7,
+            "votes": 3327,
+            "juryPoints": 16
+        },
+        {
+            "id": 1,
+            "votes": 3206,
+            "juryPoints": 16
+        }
+    ],
+    "remainingTime": 0,
+    "votingStatus": "ENDED",
+    "isVotingActive": false,
+    "lastUpdated": "2026-02-01T09:13:42.426Z"
+}
