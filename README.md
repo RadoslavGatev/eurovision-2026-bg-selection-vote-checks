@@ -4,7 +4,10 @@ This repository contains evidence documenting discrepancies between the official
 
 ## Background
 
-On the night of January 31, 2026, BNT held the national selection final to choose Bulgaria's representative for Eurovision 2026. After the broadcast, viewers discovered that the voting results API endpoint (`https://voteapi31.eurovision2026.bg/results`) was still accessible and returning data that did not match the results announced on television.
+On the night of January 31, 2026, BNT held the national selection final to choose Bulgaria's representative for Eurovision 2026. After the broadcast, viewers noticed that the voting results API endpoint was still accessible and returning data that appeared to differ from the results announced on television.
+
+> **Note:** The original results API endpoint is no longer available. An archived version can be found at:
+> [Web Archive - voteapi31.eurovision2026.bg/results](https://web.archive.org/web/20260201104256/https://voteapi31.eurovision2026.bg/results)
 
 ## Evidence
 
@@ -32,6 +35,8 @@ The file `voteapi31.eurovision2026.bg.har` is an HTTP Archive (HAR) file contain
 
 The `screenshots-from-social/` directory contains screenshots from social media posts discussing the discrepancies.
 
+*Screenshots are reproduced for documentary purposes. Copyright remains with the original authors.*
+
 ## Technical Details
 
 The voting API was hosted at `https://voteapi31.eurovision2026.bg/results` and returned JSON data with:
@@ -44,12 +49,8 @@ The API response was served via Cloudflare and configured with CORS headers allo
 
 ## Purpose
 
-This repository serves as a public record of the evidence for transparency and accountability purposes. The data suggests that the results announced on television may have been altered from the actual voting system data.
+This repository serves as a public archive of publicly available data for transparency purposes. The author makes no claims or conclusions about the meaning of any observed differences.
 
 ## Disclaimer
 
-This repository is for informational and transparency purposes only. All data was obtained from publicly accessible sources.
-
-## License
-
-The evidence and documentation in this repository are provided for public interest and journalistic purposes.
+Provided "as is" for informational purposes only. No warranties, no claims made. All data was obtained from publicly accessible sources.
